@@ -15,11 +15,6 @@ public final class ACGConstants {
 
 	public static final String POSTGRES = "postgres";
 	public static final String MYSQL = "mysql";
-<<<<<<< HEAD
-
-=======
-	
->>>>>>> ee865a11c575b92795cf24cc9e16825384bb47a0
 	private ACGConstants() {
 		super();
 	}
