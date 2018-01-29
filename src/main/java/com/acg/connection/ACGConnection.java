@@ -20,6 +20,10 @@ public class ACGConnection extends ACGAdapter {
 		if(rdbms.equals(ACGConstants.POSTGRES)){
 			
 		}
+		
+		if(rdbms.equalsIgnoreCase(ACGConstants.MONGODB)){
+
+		}
 		super.create(fileStructure, packageName);
 	}
 

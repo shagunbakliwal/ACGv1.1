@@ -15,6 +15,7 @@ public final class ACGConstants {
 
 	public static final String POSTGRES = "postgres";
 	public static final String MYSQL = "mysql";
+	public static final String MONGODB = "mongodb";
 	private ACGConstants() {
 		super();
 	}
